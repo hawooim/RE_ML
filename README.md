@@ -1,2 +1,2 @@
 # machine_learning
-Re-learning ML via Python (personal winter break project)
+Re-learning Machine Learning via Python (personal winter break project)
